@@ -1,0 +1,54 @@
+{
+  "uslugi": [
+    {
+      "nazwa": "Internet",
+      "ceny": {
+        "2023": 39,
+        "2024": 49,
+        "2025": 59
+      }
+    },
+    {
+      "nazwa": "Telewizja",
+      "ceny": {
+        "2023": 49,
+        "2024": 49,
+        "2025": 59
+      }
+    },
+    {
+      "nazwa": "Abonament telefoniczny",
+      "ceny": {
+        "2023": 29,
+        "2024": 29,
+        "2025": 29
+      }
+    },
+    {
+      "nazwa": "Dekoder 4K",
+      "ceny": {
+        "2023": 29,
+        "2024": 29,
+        "2025": 29
+      }
+    }
+  ],
+  "pakiety": [
+    {
+      "nazwa": "Internet + telewizja",
+      "ceny": {
+        "2023": 79,
+        "2024": 89,
+        "2025": 99
+      }
+    },
+    {
+      "nazwa": "Internet + Abonament telefoniczny",
+      "ceny": {
+        "2023": 64,
+        "2024": 64,
+        "2025": 64
+      }
+    }
+  ]
+}
